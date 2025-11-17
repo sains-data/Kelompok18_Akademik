@@ -9,8 +9,8 @@
 3. **Lia Hana Ichisasmita (123450089)**  
    
 
-Link Dataset : ( link dataset )  
-![][image1]
+Link Dataset : (https://github.com/sains-data/Kelompok18_Akademik/blob/df3e8105a28e3a69d7d3b6e6d67c9034737a7db6/docs/dataset.xlsx)  
+![DATASET](https://github.com/sains-data/Kelompok18_Akademik/blob/df3e8105a28e3a69d7d3b6e6d67c9034737a7db6/docs/data.png)
 
 ## **2\. Business Requirements (Kebutuhan Bisnis)**
 
@@ -243,7 +243,7 @@ Daftar Entitas dan Atribut:
    * IPK  
    * NIM (FK)
 
-**![][image2]**
+![ERD](https://github.com/sains-data/Kelompok18_Akademik/blob/df3e8105a28e3a69d7d3b6e6d67c9034737a7db6/docs/erd.png)
 
 **6\. Identifikasi Fakta**
 
@@ -445,7 +445,7 @@ Pada data dimiliki (NIM, Nama, Prodi, Fakultas, Angkatan, Jenis Kelamin, Status 
 
 **9\. Dimensional model digambar**
 
-**![][image3]**
+![DIMENSIONAL](https://github.com/sains-data/Kelompok18_Akademik/blob/df3e8105a28e3a69d7d3b6e6d67c9034737a7db6/docs/model.png)
 
 **10\. Data Dictionary**
 
