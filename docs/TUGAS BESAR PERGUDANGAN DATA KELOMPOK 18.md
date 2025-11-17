@@ -250,7 +250,7 @@ Daftar Entitas dan Atribut:
    * IPK  
    * NIM (FK)
 
-**![][image2]**
+![ERD](https://github.com/sains-data/Kelompok18_Akademik/blob/b1af0d60cb6cf73f58c7587aaedc897e8d5afb1d/docs/erd.png)
 
 **6\. Identifikasi Fakta**
 
