@@ -9,7 +9,7 @@
 3. **Lia Hana Ichisasmita (123450089)**  
    
 
-Link Dataset : ( link dataset )  
+Link Dataset : ( docs/dataset.xlsx )  
 ![][image1]
 
 ## **2\. Business Requirements (Kebutuhan Bisnis)**
