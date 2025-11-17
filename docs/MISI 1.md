@@ -449,6 +449,8 @@ Pada data dimiliki (NIM, Nama, Prodi, Fakultas, Angkatan, Jenis Kelamin, Status 
 
 **10\. Data Dictionary**
 
+SIAKAD (Sistem Informasi Akademik) merupakan sumber data yang menyimpan dan mengelola informasi akademik mahasiswa, termasuk identitas, mata kuliah, KRS/KHS, dan nilai akhir. Data dari SIAKAD digunakan sebagai dasar dalam analisis karena mencerminkan kondisi akademik terbaru setiap mahasiswa. Pembaruan data dilakukan setiap semester, terutama pada periode pengisian KRS dan finalisasi nilai, sehingga memastikan data selalu relevan dan akurat untuk kebutuhan pelaporan maupun pengolahan lebih lanjut.
+
 | No | Nama Kolom | Tipe Data | PK/FK | Deskripsi | Business Rule |
 | :---: | ----- | ----- | ----- | ----- | ----- |
 | 1 | NIM | INT | Natural Key | Nomor Induk Mahasiswa, identitas unik untuk setiap mahasiswa | 124450001 |
