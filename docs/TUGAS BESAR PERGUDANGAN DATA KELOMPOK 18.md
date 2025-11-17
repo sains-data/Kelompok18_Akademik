@@ -10,7 +10,7 @@
    
 
 Link Dataset : ( docs/dataset.xlsx )  
-![][image1]
+![DATA](https://github.com/sains-data/Kelompok18_Akademik/blob/ca79da4500b20d386a7a4f2f0680bcabc6ba9cf9/docs/data.png)
 
 ## **2\. Business Requirements (Kebutuhan Bisnis)**
 
