@@ -469,7 +469,7 @@ Pada data dimiliki (NIM, Nama, Prodi, Fakultas, Angkatan, Jenis Kelamin, Status 
 
 **9\. Dimensional model digambar**
 
-**![][image3]**
+![MODEL](https://github.com/sains-data/Kelompok18_Akademik/blob/ba49b2a1de45d50345b1de05074eb4a84acbb0ae/docs/Model.png)
 
 **10\. Data Dictionary**
 
