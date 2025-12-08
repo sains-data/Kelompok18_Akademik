@@ -47,5 +47,6 @@ Unit bisnis yang dianalisis adalah Biro Akademik, yang bertanggung jawab pada pe
 
 ## Timeline
 - Misi 1: [17/11/2025]
-- Misi 2: [Tanggal]
-- Misi 3: [Tanggal]
+- Misi 2: [24/11/2025]
+- Misi 3: [01/12/2025]
+- Final Revison: [08/12/2025]
